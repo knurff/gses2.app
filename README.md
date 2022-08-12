@@ -11,8 +11,8 @@ This is a simple REST API that allows the user to get the current bitcoin to hry
 * I have not been able to configure Docker so that the host is ```gses2.app```, so you have to go to ```http://localhost/``` to use the application.
 
 
-
-
+## Update
+```gses2.app.jar``` file has become inactive.
 
 
 
